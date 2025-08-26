@@ -1,0 +1,3 @@
+#+title: Spatial Arch
+
+This is an implementation of a OOO pipeline with a spatial fabric for accelerating computation.
